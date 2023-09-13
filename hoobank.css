@@ -31,3 +31,67 @@ li{
 .container{
     background: black;
 }
+
+.content-1{
+    border:1px solid white;
+    display:flex;
+}
+
+.box1{
+   
+    width: 50%;
+    margin-top: 15%;
+    position:relative;
+}
+.box2{
+    border:1px solid white;
+    position:relative;
+}
+
+.disc{
+   
+    display: flex;
+    align-items: center;
+}
+
+.para{
+   
+    width:65%;
+    color:white;
+    margin-top: 25px;
+}
+
+.image{
+    position: absolute;
+    top: 46px;
+    left: 51%;
+    height: 30%;
+}
+.vector{
+    position:absolute;
+}
+
+.img1{
+    position:absolute;
+    top: 25px;
+}
+
+.img2{
+    position:absolute;
+    top: 60px;
+   
+}
+
+.img3{
+    position: absolute;
+    top: 46%;
+    left: 50px;
+    opacity: 0.5;
+   
+}
+
+.robot{
+    
+    position: absolute;
+    top: 50%;
+}

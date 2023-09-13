@@ -1,0 +1,33 @@
+.content{
+  
+
+    background: black;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+
+
+.header
+{
+   
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    list-style-type: none;
+    display:flex;
+
+   
+}
+li{
+   
+    margin-left: 73px;
+    color: white;
+}
+
+.container{
+    background: black;
+}

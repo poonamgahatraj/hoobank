@@ -5,6 +5,7 @@
     margin-left: 10%;
     margin-right: 10%;
    
+   
 }
 
 
@@ -49,6 +50,9 @@ li{
     position:relative;
     margin-left: 80px;
     margin-top: 35px;
+    background: linear-gradient(0deg, #000000, #000000),
+linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214D76 100%);
+
 }
 
 .disc{
@@ -175,4 +179,159 @@ li{
 .btn1{
     position:absolute;
     
+}
+
+.box3{
+   
+ 
+ width:50%; 
+ 
+ position:relative;
+}
+
+.image1{
+    position: absolute;
+    left: 25%;
+}
+
+.image2{
+    position:absolute;
+    z-index: 1;
+}
+
+.btn{
+    
+    padding: 10px;
+    border-radius: 10px;
+    background: white;
+    width: 45%;
+    position: absolute;
+    top: 105%;
+    left: 34%;
+    z-index: 2;
+    border: none;
+}
+.box4{
+   
+    width:50%;
+   
+}
+
+.para2{
+    color: white;
+    width:62%;
+}
+.image3{
+    display:flex;
+    margin-top: 40px;
+}
+.min-box{
+    margin-top: 10%;
+}
+.content-5{
+    display:flex;
+    margin-top: 10%;
+}
+
+.box5{
+   
+    width:50%;
+    height:400px;
+}
+
+
+.box6{
+   
+    width:50%;
+    height:400px;
+    position: relative;
+}
+
+.heading1{
+    color: white;
+    width: 85%;
+    font-size: 45px;
+}
+
+.para3{
+    color: white;
+    width: 70%;
+    line-height: 30px;
+    font-size: 17px;
+}
+
+.btn1{
+background: linear-gradient(157.81deg, #DEF9FA -43.27%, #BEF3F5 -21.24%, #9DEDF0 12.19%, #7DE7EB 29.82%, #5CE1E6 51.94%, #33BBCF 90.29%);
+padding: 15px;
+border-radius: 5px;
+width: 10%;
+border: none;
+
+}
+
+.imag1{
+    position: absolute;
+    top: 120px;
+    left: 35%;
+    z-index: 1;
+}
+
+.imag2{
+    position: absolute;
+    top: 60px;
+    left: 23%;
+    z-index: 1;
+}
+
+.imag3{
+    position: absolute;
+    left: 60px;
+    z-index: 1;
+}
+
+.imag4{
+    position: absolute;
+    top: 80px;
+    z-index: 2;
+}
+
+.imag5{
+    position: absolute;
+    left: 48%;
+    top: 34px;
+    z-index: 2;
+}
+
+.imag6{
+    position: absolute;
+    bottom: -22px;
+    width: 47%;
+    left: 17%;
+    z-index: 2;
+}
+
+.heading2{
+    display:flex;
+    align-items: center;
+}
+
+.h1{
+   
+    color: white;
+    width: 30%;
+}
+
+.para4{
+    color:white;
+    width: 30%;
+    margin-left: 18%;
+}
+
+.content-7{
+    display:flex;
+}
+
+.box7{
+    background: linear-gradient(144.39deg, #FFFFFF -278.56%, #6D6D6D -78.47%, #11101D 91.61%);
+
 }

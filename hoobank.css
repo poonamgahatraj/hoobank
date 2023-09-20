@@ -417,9 +417,40 @@ border: none;
 
 }
 .box11{
-    border: 1px solid white;
-    height: 100px;
+    
     width: 90%;
     margin-left: 5%;
+    display:flex;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 16px;
 }
 
+.para8{
+    color: grey;
+    width: 52%;
+    line-height: 25px;
+    font-size: 18px;
+}
+
+.heading3{
+    color: white;
+    font-size: 40px;
+}
+
+.content-10{
+    display:flex;
+    margin-top: 10%;
+}
+
+.para9{
+    color:grey;
+}
+
+.para10{
+    color:white;
+}
+
+.box12{
+    margin-right: 15%;
+}

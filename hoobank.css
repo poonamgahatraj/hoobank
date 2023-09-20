@@ -333,5 +333,93 @@ border: none;
 
 .box7{
     background: linear-gradient(144.39deg, #FFFFFF -278.56%, #6D6D6D -78.47%, #11101D 91.61%);
+    display:flex;
+    flex-direction:column;
+    width:35%;
 
 }
+
+.imag7{
+    height: 13px;
+    width: 16px;
+}
+
+.para5{
+    color: white;
+    width: 67%;
+    line-height: 25px;
+}
+
+.box8{
+    margin-top: 10%;
+    margin-left: 10%; 
+}
+
+.box9{
+   display:flex; 
+}
+
+.imag8{
+    height: 50px;
+}
+
+.info{
+    margin-left: 10px;
+}
+
+.para6{
+    font-size: 18px;
+    margin: 0;
+    color: white;
+}
+
+.para7{
+    margin: 0;
+    color: grey;
+}
+
+.box10{
+    display: flex;
+    margin-top: 40px;
+}
+
+.content-8{
+    display:flex;
+    margin-top: 5%;
+}
+
+.imag9{
+    height: 40px;
+    margin-right: 15%;
+}
+
+
+.imag10{
+    height: 30px;
+    margin-right:  15%;
+}
+
+
+.imag11{
+    height: 30px;
+    margin-right:  15%;
+}
+
+
+.imag12{
+    height: 30px;
+    margin-right: 15%;
+}
+
+.content-9{
+    background: linear-gradient(144.39deg, #FFFFFF -278.56%, #6D6D6D -78.47%, #11101D 91.61%);
+    border-radius:20px
+
+}
+.box11{
+    border: 1px solid white;
+    height: 100px;
+    width: 90%;
+    margin-left: 5%;
+}
+

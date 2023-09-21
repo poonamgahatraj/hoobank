@@ -26,7 +26,7 @@ ul{
 }
 li{
    
-    margin-left: 73px;
+    margin-left: 20px;
     color: white;
 }
 
@@ -48,7 +48,7 @@ li{
 .box2{
    
     position:relative;
-    margin-left: 80px;
+    margin-left: 20%;
     margin-top: 35px;
     background: linear-gradient(0deg, #000000, #000000),
 linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214D76 100%);
@@ -63,15 +63,17 @@ linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214D76 100%);
 
 .para{
    
-    width:65%;
-    color:white;
+    width: 80%;
+    color: white;
     margin-top: 25px;
+    line-height: 22px;
+    font-size: 20px;
 }
 
 .image{
     position: absolute;
     top: 46px;
-    left: 51%;
+    left: 70%;
     height: 30%;
 }
 .vector{
@@ -102,15 +104,15 @@ linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214D76 100%);
 }
 
 .img4{
-    height: 50px;
+    height: 35px;
     position: absolute;
-    top: 77%;
+    top: 70%;
     left: 38px;
 }
 
 .img5{
     position: absolute;
-    top: 63%;
+    top: 60%;
     left: 270px;
     height: 84px;
 
@@ -125,32 +127,41 @@ linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214D76 100%);
 .a{
     display:flex;
     align-items: center;
-    margin-right: 14%;
+   
 }
 
 .content-2{
-    display:flex;
-    margin-top:10%;
+    display: flex;
+    margin-top: 10%;
+    justify-content: space-between;
 }
 .content-3{
-    display:flex;
+    display: flex;
     margin-top: 5%;
+    justify-content: space-between;
 }
 
 .para1{
    
     color: #FFFFFF;
-    width: 70%;
-    line-height: 20px;
+    width: 60%;
+    line-height: 25px;
 }
 
 .heading{
-    color: white;
    
-    width: 75%;
+        color: white;
+        line-height: 45px;
+        font-size: 40px;
+       
+  
+}
+
+.heading4{
+    color: white;
     line-height: 45px;
     font-size: 40px;
-    font-style: poppins;
+    width: 60%;
 }
 
 .btn{
@@ -204,12 +215,14 @@ linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214D76 100%);
     padding: 10px;
     border-radius: 10px;
     background: white;
-    width: 45%;
+    width: 50%;
     position: absolute;
     top: 105%;
     left: 34%;
     z-index: 2;
     border: none;
+    display: flex;
+    align-items: center;
 }
 .box4{
    
@@ -218,8 +231,8 @@ linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214D76 100%);
 }
 
 .para2{
-    color: white;
-    width:62%;
+    color:grey;
+    width: 87%;
 }
 .image3{
     display:flex;
@@ -227,6 +240,7 @@ linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214D76 100%);
 }
 .min-box{
     margin-top: 10%;
+    margin-left: 30%;
 }
 .content-5{
     display:flex;
@@ -249,8 +263,9 @@ linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214D76 100%);
 
 .heading1{
     color: white;
-    width: 85%;
-    font-size: 45px;
+    line-height: 50px;
+    font-size: 40px;
+    width: 75%;
 }
 
 .para3{
@@ -258,6 +273,7 @@ linear-gradient(180deg, rgba(188, 165, 255, 0) 0%, #214D76 100%);
     width: 70%;
     line-height: 30px;
     font-size: 17px;
+    margin-top: 10%;
 }
 
 .btn1{
@@ -310,21 +326,27 @@ border: none;
     z-index: 2;
 }
 
+.content-6{
+    margin-top:10%;
+}
+
 .heading2{
-    display:flex;
+    display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 .h1{
    
     color: white;
     width: 30%;
+    font-size: 40px;
 }
 
 .para4{
-    color:white;
-    width: 30%;
-    margin-left: 18%;
+    color: grey;
+    width: 34%;
+    font-size: 18px;
 }
 
 .content-7{
@@ -336,6 +358,7 @@ border: none;
     display:flex;
     flex-direction:column;
     width:35%;
+    margin-top: 5%;
 
 }
 
@@ -384,8 +407,9 @@ border: none;
 }
 
 .content-8{
-    display:flex;
+    display: flex;
     margin-top: 5%;
+    justify-content: space-between;
 }
 
 .imag9{
@@ -413,7 +437,8 @@ border: none;
 
 .content-9{
     background: linear-gradient(144.39deg, #FFFFFF -278.56%, #6D6D6D -78.47%, #11101D 91.61%);
-    border-radius:20px
+    border-radius:20px;
+    margin-top: 5%;
 
 }
 .box11{
@@ -435,12 +460,13 @@ border: none;
 
 .heading3{
     color: white;
-    font-size: 40px;
+    font-size: 53px;
 }
 
 .content-10{
-    display:flex;
+    display: flex;
     margin-top: 10%;
+    justify-content: space-between;
 }
 
 .para9{
@@ -451,6 +477,33 @@ border: none;
     color:white;
 }
 
-.box12{
-    margin-right: 15%;
+
+.box13{
+    display:flex;
+    align-items: center;
+}
+
+.footer{
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+}
+
+.para11{
+    color: white;
+    width: 66%;
+    line-height: 25px;
+
+}
+
+.head{
+    margin-top: 5%;
+}
+
+.line{
+    border: 1px solid grey;
+   
+    margin-top: 15px;
 }
